@@ -56,11 +56,13 @@ Thus, this research likely involves (in order):
 * Innovation will also *open and create* new sub-industries. Can we tell what those will be?
 
 ## Specific Technical Challenges to be solved
-* Hierarchical nature of the data
+* "Hierarchical nature of the data"
 * NLP – interpreting function or automation risk of technology from description
 
 ## Data to be Used
 * O*Net Data
+* Employment numbers data (from original paper) (BLS)
+* Income data by profession (not yet found)
 
 ## Helpful Connections to People
 * Access to the Martin School (key researchers, discussion groups or opportunities to discuss my research, events)
