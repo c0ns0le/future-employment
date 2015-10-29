@@ -1,3 +1,28 @@
+**Table of Contents**
+
+- [Project Proposal](#)
+	- [Introduction](#)
+	- [Summary of Proposal](#)
+	- [Timeline](#)
+	- [Specific Economics Sub-Questions](#)
+		- [Automation Questions](#)
+		- [Labour Questions](#)
+		- [Theory Questions](#)
+	- [Specific Technical Challenges to be Solved](#)
+	- [Data to be Used](#)
+	- [Helpful Connections to People](#)
+	- [Literature I Expect to be Reading](#)
+		- [Economics](#)
+			- [Labour](#)
+			- [Macro](#)
+			- [Public](#)
+		- [Machine Learning](#)
+			- [Computer Science](#)
+			- [Information Theory](#)
+			- [Mathematics & Statistics](#)
+- [Questions I Have For You](#)
+
+
 # Project Proposal
 
 ## Introduction
