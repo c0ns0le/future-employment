@@ -1,0 +1,18 @@
+RULES
+
+0 – NOT AUTOMATION
+0 Human support, non-replacement (electrotherapy tools)
+0 Support for non-routine cognitive tasks (paper)
+
+1 – AUTOMATION
+*Does the fact that someone uses them indicate something about automation?
+1 Cannot be done by humans
+1 Previously done by humans
+1 Productivity increase in humans (laboratory inspection equip)
+1 Routine, physical task (placing/moving)
+1 Routine, mental task (measuring)
+1 Non-routine judgment task automated (scientific measurement)
+
+2 – SAVED FOR AI CATEGORY
+2 Solely and Significantly Human Augmenting
+2 Futuristic
