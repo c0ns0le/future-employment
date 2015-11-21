@@ -1,0 +1,23 @@
+
+x 1. occupations that abandoned new ai/automating technologies
+x 2. occupations that adopted new ai/automating technologies
+x 3. O*NET data on emerging technologies
+[] 4. Bigrams on technologies
+[] 4. collated occupation data
+  - collate occupation data
+  - collate technology data
+  - predict if replaced
+  - predict why replaced
+
+5. Predict adoption
+  - software
+  - computer
+  - data
+5. Classifier: adopting software, ai, machines, automation.
+  a. predicting which adopted, dropped.
+
+
+
+
+OUTCOME
+- Adopted family of top 30 tech of emerging
