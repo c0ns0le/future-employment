@@ -1,0 +1,62 @@
+,O*NET-SOC Code,Title,broad_title,minor_title,major_title
+818,11-3051.01,Quality Control Systems Managers,Industrial Production Managers,Operations Specialties Managers,Management Occupations
+1169,11-3071.03,Logistics Managers,"Transportation, Storage, and Distribution Managers",Operations Specialties Managers,Management Occupations
+1904,11-9039.01,Distance Learning Coordinators,Education Administrators,Other Management Occupations,Management Occupations
+1947,11-9039.02,Fitness and Wellness Coordinators,Education Administrators,Other Management Occupations,Management Occupations
+2766,11-9199.03,Investment Fund Managers,Miscellaneous Managers,Other Management Occupations,Management Occupations
+2841,11-9199.07,Security Managers,Miscellaneous Managers,Other Management Occupations,Management Occupations
+2880,11-9199.08,Loss Prevention Managers,Miscellaneous Managers,Other Management Occupations,Management Occupations
+4499,13-1199.02,Security Management Specialists,Miscellaneous Business Operations Specialists,Business Operations Specialists,Business and Financial Operations Occupations
+4570,13-1199.03,Customs Brokers,Miscellaneous Business Operations Specialists,Business Operations Specialists,Business and Financial Operations Occupations
+4594,13-1199.04,Business Continuity Planners,Miscellaneous Business Operations Specialists,Business Operations Specialists,Business and Financial Operations Occupations
+4663,13-1199.06,Online Merchants,Miscellaneous Business Operations Specialists,Business Operations Specialists,Business and Financial Operations Occupations
+5775,13-2099.04,"Fraud Examiners, Investigators and Analysts",Miscellaneous Financial Specialists,Financial Specialists,Business and Financial Operations Occupations
+6168,15-1121.01,Informatics Nurse Specialists,,,
+7825,15-1143.01,Telecommunications Engineering Specialists,,,
+8188,15-1199.01,Software Quality Assurance Engineers and Testers,,,
+8333,15-1199.02,Computer Systems Engineers/Architects,,,
+8502,15-1199.03,Web Administrators,,,
+8608,15-1199.04,Geospatial Information Scientists and Technologists,,,
+8664,15-1199.05,Geographic Information Systems Technicians,,,
+8731,15-1199.06,Database Architects,,,
+8843,15-1199.07,Data Warehousing Specialists,,,
+8953,15-1199.08,Business Intelligence Analysts,,,
+9075,15-1199.09,Information Technology Project Managers,,,
+9283,15-1199.10,Search Marketing Strategists,,,
+9333,15-1199.11,Video Game Designers,,,
+9383,15-1199.12,Document Management Specialists,,,
+10157,17-1022.01,Geodetic Surveyors,"Surveyors, Cartographers, and Photogrammetrists","Architects, Surveyors, and Cartographers",Architecture and Engineering Occupations
+11187,17-2072.01,Radio Frequency Identification Device Specialists,Electrical and Electronics Engineers,Engineers,Architecture and Engineering Occupations
+11397,17-2081.01,Water/Wastewater Engineers,Environmental Engineers,Engineers,Architecture and Engineering Occupations
+11852,17-2112.01,Human Factors Engineers and Ergonomists,"Industrial Engineers, Including Health and Safety",Engineers,Architecture and Engineering Occupations
+14763,17-3029.01,Non-Destructive Testing Specialists,"Engineering Technicians, Except Drafters","Drafters, Engineering Technicians, and Mapping Technicians",Architecture and Engineering Occupations
+16979,19-1029.01,Bioinformatics Scientists,Biological Scientists,Life Scientists,"Life, Physical, and Social Science Occupations"
+21249,19-4099.01,Quality Control Analysts,"Miscellaneous Life, Physical, and Social Science Technicians","Life, Physical, and Social Science Technicians","Life, Physical, and Social Science Occupations"
+25803,25-2059.01,Adapted Physical Education Specialists,Special Education Teachers,"Preschool, Primary, Secondary, and Special Education School Teachers","Education, Training, and Library Occupations"
+25920,25-3099.02,Tutors,Miscellaneous Teachers and Instructors,Other Teachers and Instructors,"Education, Training, and Library Occupations"
+26258,25-9031.01,Instructional Designers and Technologists,Instructional Coordinators,"Other Education, Training, and Library Occupations","Education, Training, and Library Occupations"
+30145,29-1069.01,Allergists and Immunologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30206,29-1069.02,Dermatologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30375,29-1069.04,Neurologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30499,29-1069.06,Ophthalmologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30741,29-1069.08,Physical Medicine and Rehabilitation Physicians,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30857,29-1069.10,Radiologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30911,29-1069.11,Sports Medicine Physicians,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+30981,29-1069.12,Urologists,Physicians and Surgeons,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+31153,29-1071.01,Anesthesiologist Assistants,Physician Assistants,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+31720,29-1125.01,Art Therapists,Therapists,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+31742,29-1125.02,Music Therapists,Therapists,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+32373,29-1141.01,Acute Care Nurses,Registered Nurses,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+32524,29-1141.02,Advanced Practice Psychiatric Nurses,Registered Nurses,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+32560,29-1141.03,Critical Care Nurses,Registered Nurses,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+32704,29-1141.04,Clinical Nurse Specialists,Registered Nurses,Health Diagnosing and Treating Practitioners,Healthcare Practitioners and Technical Occupations
+35417,29-2099.05,Ophthalmic Medical Technologists,Miscellaneous Health Technologists and Technicians,Health Technologists and Technicians,Healthcare Practitioners and Technical Occupations
+35537,29-2099.07,Surgical Assistants,Miscellaneous Health Technologists and Technicians,Health Technologists and Technicians,Healthcare Practitioners and Technical Occupations
+35891,29-9099.01,Midwives,Miscellaneous Health Practitioners and Technical Workers,Other Healthcare Practitioners and Technical Occupations,Healthcare Practitioners and Technical Occupations
+36876,31-9099.01,Speech-Language Pathology Assistants,Miscellaneous Healthcare Support Occupations,Other Healthcare Support Occupations,Healthcare Support Occupations
+36925,31-9099.02,Endoscopy Technicians,Miscellaneous Healthcare Support Occupations,Other Healthcare Support Occupations,Healthcare Support Occupations
+37986,33-3021.06,Intelligence Analysts,Detectives and Criminal Investigators,Law Enforcement Workers,Protective Service Occupations
+38513,33-9099.02,Retail Loss Prevention Specialists,Miscellaneous Protective Service Workers,Other Protective Service Workers,Protective Service Occupations
+39214,35-3022.01,Baristas,Fast Food and Counter Workers,Food and Beverage Serving Workers,Food Preparation and Serving Related Occupations
+39861,39-1021.01,Spa Managers,First-Line Supervisors of Personal Service Workers,Supervisors of Personal Care and Service Workers,Personal Care and Service Occupations
+44139,43-9111.01,Bioinformatics Technicians,Statistical Assistants,Other Office and Administrative Support Workers,Office and Administrative Support Occupations
