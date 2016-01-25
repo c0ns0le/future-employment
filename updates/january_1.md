@@ -13,8 +13,9 @@
 
 # Discoveries / Problems
 
-* I've still found no clear association between X and y. I'm currently looping over models, inputs, targets to try a "shotgun" approach to see what works
-* I haven't yet pursued the task-bag model of an occupation, but theorize there are "core groups" of tasks that would be automated.
+* No astonishing findings yet – I'm chugging along steadily, though I wish I had something more exciting for this update.
+* I've still found no clear association between X and y. I'm currently looping over models, inputs, and targets to try a "shotgun" approach to see what works.
+* I haven't yet pursued the task-bag model of an occupation, but I want to. I theorize there are "core groups" of tasks that would be automated.
 * Check-in: seem to be on track with the original proposal and I expect that I'll find results soon.
 
 # Questions and Next Steps
@@ -30,4 +31,5 @@
 2. It's time to work out a new learning plan and I'm open to suggestions. The AIMS courses are highly systems-focused. Right now, I'm thinking:
 	* Andrew Ng's ML Course + Oxford's ML lecture
 	* Jaynes: Probability Theory
-3. Ali and I are beginning an outlet for thought on AI and the economy.
+3. Ali and I are *just* beginning an outlet for our thoughts on AI and the economy – [42ish.com](http://www.42ish.com). You may enjoy reading it once we've stuck the articles we have on there!
+4. Speaking of which... I just need some last polishing before you can share the article from my site if you're keen!
