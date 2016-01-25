@@ -27,9 +27,7 @@
 
 # Related Topics
 
-1. What should I know about requirements to transition from PRS status to full DPhil status?
-2. It's time to work out a new learning plan and I'm open to suggestions. The AIMS courses are highly systems-focused. Right now, I'm thinking:
+1. It's time to work out a new learning plan and I'm open to suggestions. The AIMS courses are highly systems-focused. Right now, I'm thinking:
 	* Andrew Ng's ML Course + Oxford's ML lecture
 	* Jaynes: Probability Theory
-3. Ali and I are *just* beginning an outlet for our thoughts on AI and the economy – [42ish.com](http://www.42ish.com). You may enjoy reading it once we've stuck the articles we have on there!
-4. Speaking of which... I just need some last polishing before you can share the article from my site if you're keen!
+2. Ali and I are *just* beginning an outlet for our thoughts on AI and the economy – [42ish.com](http://www.42ish.com). You may enjoy reading it once we've stuck the articles we have on there! Speaking of which... I just need some last polishing before you can share the article from my site if you're keen!
