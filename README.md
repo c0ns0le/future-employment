@@ -17,7 +17,7 @@
 			- [Macro](#macro)
 			- [Public](#public)
 		- [Machine Learning](#machine-learning)
-			- [Computer Science](#computer-science)
+			- [Computer Science](#computer-science)s
 			- [Information Theory](#information-theory)
 			- [Mathematics & Statistics](#mathematics-&-statistics)
 - [Questions I Have For You](#questions-i-have-for-you)
