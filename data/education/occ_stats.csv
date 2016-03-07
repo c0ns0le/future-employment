@@ -1,6 +1,4 @@
-"Table 1.7 Occupational employment and job openings data, projected 2014-24, and worker characteristics, 2014(Numbers in thousands)",,,,,,,,,,,
-2014 National Employment Matrix title and code,,Employment,,"Employment change, 2014-24",,"Percent self employed, 2014","Job openings due to growth and replacement needs, 2014-24","Median annual wage, 2014 (1)",Typical education needed for entry  ,Work experience in a related occupation,Typical on-the-job training needed to attain competency in the occupation
-,,2014,2024,Number,Percent,,,,,,
+name,code,e14,e24,change,pct,selfemp,openings,medwage,educ,exp,train
 "Total, all occupations",00-0000,"150,539.9","160,328.8","9,788.9",6.5,6.2,"46,506.9","$35,540",Ñ,Ñ,Ñ
 Management occupations,11-0000,"9,157.5","9,662.9",505.4,5.5,20.3,"2,586.8","$97,230",Ñ,Ñ,Ñ
 Top executives,11-1000,"2,525.9","2,672.5",146.6,5.8,3.6,760.0,"$100,910",Ñ,Ñ,Ñ
