@@ -1,0 +1,8 @@
+Academic Positions:
+
+'Researcher or Fellow', 'Professor (Any)', 'Instructor / Teacher', 'Postgraduate Student', 'Undergraduate Student', 'Other'
+
+
+Academic Fields (limited to relevant ones):
+
+'Robotics', 'Machine Learning', 'Artificial Intelligence', 'Engineering, General', 'Computer Science', 'Mathematics', 'Statistics', 'Physics', 'Other STEM', 'Economics', 'Business, Operations, or Organizations', 'Other'

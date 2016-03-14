@@ -1,0 +1,38 @@
+Industry Occupations/Positions:
+
+'Corporate Management', 'Project Management', 'Software/IT Engineer, Developer, or Management', 'Other Scientist or Engineer (Any)', 'Marketing', 'Sales', 'Administration', 'Technical Consultant', 'Business Consultant', 'Medical Specialist/Doctor', 'Civil Servant', 'Other'
+
+
+
+Industries:
+
+'Air, Aerospace & Defense',
+'Automotive',
+'Building Products',
+'Capital Markets',
+'Commercial Services & Supplies',
+'Communications Equipment',
+'Consumer Services',
+'Finance',
+'Electronics',
+'Energy',
+'Food & Beverages',
+'Health Care',
+'Hospitality',
+'Information Technology',
+'Industrial Conglomerates',
+'Leisure Products',
+'Life Sciences',
+'Machinery',
+'Media',
+'Personal Products',
+'Professional Services',
+'Retail',
+'Real Estate',
+'Road & Rail',
+'Software',
+'Textiles, Apparel & Luxury Goods',
+'Tobacco',
+'Trading',
+'Transportation',
+'Other'
