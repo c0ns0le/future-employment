@@ -8,7 +8,7 @@
 
 # To the committee/distributor
 
-Hi ```$name_of_community_director```,
+Dear ```$name_of_community_director```,
 
 We are [two researchers](http://www.oxfordmartin.ox.ac.uk/research/programmes/tech-employment/people) at the University of Oxford conducting research on the future of automation, employment, and work. I am emailing you in particular because we would like to ask how we might [distribute this survey]($link_to_survey) to your community members – we think they might find it a very interesting one to complete.
 
@@ -20,7 +20,7 @@ Please let me know how we might make this happen – I would be happy to discus
 
 # To the mailing list
 
-Hi ```$name_of_community``` members,
+Dear ```$name_of_community``` members,
 
 We are [two researchers](http://www.oxfordmartin.ox.ac.uk/research/programmes/tech-employment/people) at the University of Oxford conducting research on the future of automation, employment, and work. We would like to invite you to complete [this survey]($link_to_survey) – given your expertise and involvement, we think you might find it a very interesting one to complete.
 
@@ -31,7 +31,7 @@ We are reaching out to members of various related academic communities – withi
 If you have any questions, please do not hesitate to reach out. We hope to benefit from your expertise!
 
 # Signature
-Best,
+Sincerely,
 
 Dr. Carl Benedikt Frey
 Co-Director and Oxford Martin Citi Fellow, Oxford Martin Programme on Technology and Employment
