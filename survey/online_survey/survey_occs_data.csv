@@ -1,0 +1,30 @@
+name,O*NET-SOC Code,e14,e24,change,pct,selfemp,openings,medwage,educ,exp,train,pct_of_employment
+chief executives,11-1011,343.4,339.4,-4.1,-1.2,23.8,58.4,173320.0,Bachelor's degree,5 years or more,None,0.00228112281196
+credit analysts,13-2041,69.4,73.6,4.2,6.1,Ñ,34.3,67020.0,Bachelor's degree,None,None,0.000461007347554
+insurance underwriters,13-2053,103.4,91.6,-11.7,-11.4,Ñ,19.5,64220.0,Bachelor's degree,None,Moderate-term on-the-job training,0.000686861091312
+loan officers,13-2072,303.2,327.7,24.5,8.1,0.6,75.0,62620.0,Bachelor's degree,None,Moderate-term on-the-job training,0.00201408397375
+"tax examiners and collectors, and revenue agents",13-2081,67.9,63.7,-4.2,-6.2,Ñ,27.8,51120.0,Bachelor's degree,None,Moderate-term on-the-job training,0.0004510432118
+landscape architects,17-1012,22.5,23.7,1.2,5.5,18.6,4.9,64570.0,Bachelor's degree,None,Internship/residency,0.000149462036311
+civil engineers,17-2051,281.4,305.0,23.6,8.4,3.9,106.7,82050.0,Bachelor's degree,None,None,0.00186927186746
+zoologists and wildlife biologists,19-1023,21.3,22.2,0.8,4.0,1.0,6.6,58270.0,Bachelor's degree,None,None,0.000141490727707
+physicists,19-2012,18.1,19.5,1.4,7.9,0.9,4.9,109600.0,Doctoral or professional degree,None,None,0.000120233904765
+marriage and family therapists,21-1013,33.7,38.7,5.0,14.8,6.6,12.1,48040.0,Master's degree,None,Internship/residency,0.000223860916607
+clergy,21-2011,244.2,258.0,13.8,5.6,0.0,66.3,43950.0,Bachelor's degree,None,Moderate-term on-the-job training,0.00162216130076
+lawyers,23-1011,778.7,822.5,43.8,5.6,21.3,157.7,114970.0,Doctoral or professional degree,None,None,0.00517271500778
+paralegals and legal assistants,23-2011,279.5,300.8,21.2,7.6,1.7,82.7,48350.0,Associate's degree,None,None,0.00185665062884
+fashion designers,27-1022,23.1,23.8,0.7,2.9,23.2,6.2,64030.0,Bachelor's degree,None,None,0.000153447690612
+athletes and sports competitors,27-2021,13.7,14.5,0.8,5.6,12.3,5.4,43350.0,No formal educational credential,None,Long-term on-the-job training,9.10057732203e-05
+registered nurses,29-1141,2751.0,3190.3,439.3,16.0,0.4,1088.4,66640.0,Bachelor's degree,None,None,0.0182742249729
+chefs and head cooks,35-1011,127.5,138.8,11.3,8.9,4.9,30.4,41610.0,High school diploma or equivalent,5 years or more,None,0.000846951539094
+waiters and waitresses,35-3031,2465.1,2534.0,68.9,2.8,0.2,1255.0,18730.0,No formal educational credential,None,Short-term on-the-job training,0.0163750606982
+childcare workers,39-9011,1260.6,1329.9,69.3,5.5,27.1,441.3,19730.0,High school diploma or equivalent,None,Short-term on-the-job training,0.0083738596877
+cashiers,41-2010,3437.5,3503.0,65.5,1.9,1.0,1529.5,19070.0,Ñ,Ñ,Ñ,0.0228344777697
+"meter readers, utilities",43-5041,37.4,30.6,-6.7,-18.0,Ñ,6.7,37580.0,High school diploma or equivalent,None,Short-term on-the-job training,0.000248439118134
+data entry keyers,43-9021,216.8,208.9,-7.9,-3.7,1.1,27.6,28870.0,High school diploma or equivalent,None,Moderate-term on-the-job training,0.00144014975432
+sewing machine operators,51-6031,153.9,112.2,-41.7,-27.1,8.4,9.4,21920.0,No formal educational credential,None,Short-term on-the-job training,0.00102232032836
+taxi drivers and chauffeurs,53-3041,233.7,264.4,30.6,13.1,20.9,74.8,23210.0,No formal educational credential,None,Short-term on-the-job training,0.00155241235048
+industrial truck and tractor operators,53-7051,530.9,543.5,12.6,2.4,0.6,144.7,31340.0,No formal educational credential,None,Short-term on-the-job training,0.00352663978121
+"switchboard operators, including answering service",43-2011,112.4,75.4,-37.0,-32.9,Ñ,13.3,26550.0,High school diploma or equivalent,None,Short-term on-the-job training,0.000746645905836
+accountants and auditors,13-2011,1332.7,1475.1,142.4,10.7,5.9,498.0,65940.0,Bachelor's degree,None,None,0.00885280247961
+light truck or delivery services drivers,53-3033,884.7,911.9,27.3,3.1,7.6,177.8,29570.0,High school diploma or equivalent,None,Short-term on-the-job training,0.00587684726773
+"credit authorizers, checkers, and clerks",43-4041,46.1,43.3,-2.8,-6.2,Ñ,3.8,34550.0,High school diploma or equivalent,None,Moderate-term on-the-job training,0.000306231105508
